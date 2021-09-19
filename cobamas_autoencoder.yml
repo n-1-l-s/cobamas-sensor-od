@@ -1,0 +1,10 @@
+name: cobamas_sensor
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - torch
+  - torchvision
+  - matplotlib
+  - numpy
