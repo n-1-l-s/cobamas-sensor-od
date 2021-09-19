@@ -1,0 +1,6 @@
+Convolution Channel:          35, 50
+Kernel:                       7
+Kernel Stride:                3, 1
+LSTM Layer:                   2
+Embedding Dimension:          128
+Epochs:                       10

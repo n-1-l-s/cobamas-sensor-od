@@ -1,0 +1,4 @@
+Embedding Dimension: 	32
+Kernel: 				7
+Kernel Stride: 			2
+Convolution Channel: 	8Epochs: 				10
